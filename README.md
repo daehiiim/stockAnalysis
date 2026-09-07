@@ -1,4 +1,6 @@
-<img src="readme/icon.png" width="128" alt="스알 아이콘">
+<p align="center">
+  <img src="readme/icon.png" width="128" alt="스알 아이콘">
+</p>
 
 # 스알
 
