@@ -22,7 +22,7 @@
 
 | 운영체제 | 파일 |
 | --- | --- |
-| macOS | `StockAnalysis-<버전>-mac-arm64.dmg` (애플 실리콘), `-mac-x64.dmg` (인텔) |
+| macOS | `StockAnalysis-<버전>-mac-arm64.dmg` (애플 실리콘) |
 | Windows | `StockAnalysis-<버전>-win-x64.exe` |
 
 **macOS**
